@@ -1,0 +1,8 @@
+.cardDiv {
+    border: solid;
+    border-color: goldenrod;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 11em;
+    margin: 2em;
+}
